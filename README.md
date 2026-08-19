@@ -8,16 +8,16 @@ I build scalable backend systems and APIs, with a focus on Python, FastAPI, and 
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Final-year Computer Science & Design student at Erode Sengunthar Engineering College (Anna University), graduating 2027
-- 💼 Actively looking for SDE roles in Bengaluru, Coimbatore, and Chennai
-- 🌱 Currently deepening my skills in Docker, AWS(SAA-C03), and Kubernetes
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/logesh-t-828b83390)
+- Final-year Computer Science & Design student at Erode Sengunthar Engineering College (Anna University), graduating 2027
+-  Actively looking for SDE roles in Bengaluru, Coimbatore, and Chennai
+-  Currently deepening my skills in Docker, AWS(SAA-C03), and Kubernetes
+-  Reach me on [LinkedIn](https://www.linkedin.com/in/logesh-t-828b83390)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 
@@ -52,7 +52,7 @@ I build scalable backend systems and APIs, with a focus on Python, FastAPI, and 
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 **[ReelFind](https://github.com/Loki-3103/ReelFind)**
 Full-stack movie discovery platform built with FastAPI and React/Vite, integrating the TMDb API for real-time search and recommendations.
@@ -67,7 +67,7 @@ Movie recommendation system with a custom caching layer, built using FastAPI, My
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logesh-t-828b83390)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:logesht3103@gmail.com)
