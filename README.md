@@ -9,7 +9,7 @@
 
 **Aspiring SDE | Backend Developer | Open to Cloud & DevOps roles**
 
-Computer Science & Design student actively seeking opportunities as a Software Development Engineer (SDE), with growing interest in Cloud and DevOps roles. Skilled in Python, FastAPI, MySQL, Docker, CI/CD pipelines, and AWS.
+Computer Science & Design student actively seeking opportunities as a Software Development Engineer (SDE), with growing interest in Cloud and DevOps roles. Skilled in Python, FastAPI, MySQL, Docker, CI/CD pipelines, Linux, Nginx and AWS.
 
 ---
 
