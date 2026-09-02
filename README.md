@@ -5,9 +5,9 @@
 
 # I'm Logesh
 
-**Backend Developer | Final-Year CS & Design Student**
+**Aspiring SDE | Backend Developer | Open to Cloud & DevOps roles**
 
-I build scalable backend systems and APIs, with a focus on Python, FastAPI, and cloud-native practices. Currently seeking SDE internship and entry-level opportunities.
+Computer Science & Design student actively seeking opportunities as a Software Development Engineer (SDE), with growing interest in Cloud and DevOps roles. Skilled in Python, FastAPI, MySQL, Docker, CI/CD pipelines, and AWS.
 
 ---
 
