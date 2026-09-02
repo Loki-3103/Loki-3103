@@ -16,7 +16,7 @@ Computer Science & Design student actively seeking opportunities as a Software D
 ### About Me
 
 - Final-year Computer Science & Design student at Erode Sengunthar Engineering College (Anna University), graduating 2027
--  Actively looking for SDE roles in Bengaluru, Coimbatore, and Chennai
+-  Actively looking for SDE roles in Bengaluru 
 -  Currently deepening my skills in Docker, AWS(SAA-C03), and Kubernetes
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/logesh-t-828b83390)
 
