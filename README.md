@@ -1,4 +1,4 @@
-# Hi There 
+# Hi There !!,
 
 
 ![Demo GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
@@ -7,7 +7,7 @@
 # I'm Logesh
 
 
-**Open to SE & SDE | Cloud & DevOps roles**
+**Open to SE | SDE | Cloud & DevOps roles**
 
 Computer Science & Design student actively seeking opportunities as a Software Development Engineer (SDE), with growing interest in Cloud and DevOps roles. Skilled in Python, FastAPI, MySQL, Docker, CI/CD pipelines, Linux, Nginx and AWS.
 
