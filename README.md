@@ -7,7 +7,7 @@
 # I'm Logesh
 
 
-**Aspiring SDE | Backend Developer | Open to Cloud & DevOps roles**
+**Open to SE & SDE | Cloud & DevOps roles**
 
 Computer Science & Design student actively seeking opportunities as a Software Development Engineer (SDE), with growing interest in Cloud and DevOps roles. Skilled in Python, FastAPI, MySQL, Docker, CI/CD pipelines, Linux, Nginx and AWS.
 
